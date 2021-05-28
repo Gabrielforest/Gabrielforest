@@ -2,7 +2,7 @@
 
  My name is Gabriel F. Pereira, I'm forest engineering student 🌱 from    Brazil that has been learning Data Science since 2021.
 
- I have been studying mainly R language for manage data and visualize the results. 
+ I have been studying R language mainly for manage and visualize data. 
 
 My main areas of interest: 
 - Genetics🧬
