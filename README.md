@@ -1,16 +1,15 @@
-### Hi there 👋
+ ## Hey 👋
 
-<!--
-**Gabrielforest/Gabrielforest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ My name is Gabriel F. Pereira, I'm forest engineering student 🌱 from    Brazil that has been learning Data Science since 2021.
 
-Here are some ideas to get you started:
+ I have been studying mainly R language for manage data and to visualize results. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main areas of interest: 
+- Genetics🧬
+- Forest inventory 🌲
+- Climate changes 🥵
+
+
+Reach me out  👇🏻
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-de-freitas-pereira-925260205)](https://www.linkedin.com/in/gabriel-de-freitas-pereira-925260205) ![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCw3sS4v18RQ4Q7QxacQf7JQ) 
