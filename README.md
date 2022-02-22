@@ -5,9 +5,9 @@
  I have been studying R language mainly for manage and visualize data. 
 
 My main areas of interest: 
-- Genetics🧬
-- Forest inventory 🌲
-- Climate changes 🥵
+- Statistics 
+- Programming
+- Math
 
 
 Reach me out  👇🏻
