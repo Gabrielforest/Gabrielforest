@@ -7,7 +7,6 @@
 My main areas of interest: 
 - Statistics 
 - Programming
-- Math
 
 
 Reach me out  👇🏻
