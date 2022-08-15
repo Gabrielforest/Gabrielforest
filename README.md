@@ -1,12 +1,12 @@
  ## Hey 👋
 
- My name is Gabriel F. Pereira, I'm forest engineering student 🌱 from    Brazil that has been learning Data Science since 2021.
+ My name is Gabriel F. Pereira, I'm forest engineering student 🌱 from    Brazil that has been learning programming since 2021.
 
  I have been studying Julia and R language mainly for manage and visualize data. 
 
 My main areas of interest: 
 - Statistics 
-- Programming
+- Data Science
 
 
 Reach me out  👇🏻
