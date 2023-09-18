@@ -1,8 +1,8 @@
  ## Hey 👋
 
- My name is Gabriel F. Pereira, I'm forest engineer 🌱 from Brazil that has been learning programming since 2021.
+ My name is Gabriel F. Pereira, I'm forest engineer 🌱 from Brazil that has been working with programming since 2021.
 
- I have been studying R language mainly for manage and visualize data. 
+ I have been using R language mainly for manage and visualize data. 
 
 Reach me out  👇🏻
 
